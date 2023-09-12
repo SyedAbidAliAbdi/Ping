@@ -1,0 +1,26 @@
+C:\Users\Abid\AppData\Local\Temporary Projects\PingCS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Abid\AppData\Local\Temporary Projects\PingCS\obj\x86\Debug\PingCS.Form1.resources
+C:\Users\Abid\AppData\Local\Temporary Projects\PingCS\obj\x86\Debug\PingCS.Properties.Resources.resources
+C:\Users\Abid\AppData\Local\Temporary Projects\PingCS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Abid\AppData\Local\Temporary Projects\PingCS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Abid\AppData\Local\Temporary Projects\PingCS\bin\Debug\PingCS.exe
+C:\Users\Abid\AppData\Local\Temporary Projects\PingCS\bin\Debug\PingCS.pdb
+C:\Users\Abid\AppData\Local\Temporary Projects\PingCS\obj\x86\Debug\PingCS.exe
+C:\Users\Abid\AppData\Local\Temporary Projects\PingCS\obj\x86\Debug\PingCS.pdb
+I:\PingCS\PingCS\obj\x86\Debug\PingCS.exe
+I:\PingCS\PingCS\obj\x86\Debug\PingCS.pdb
+I:\PingCS\PingCS\bin\Debug\PingCS.exe
+I:\PingCS\PingCS\bin\Debug\PingCS.pdb
+I:\PingCS\PingCS\obj\x86\Debug\PingCS.Form1.resources
+I:\PingCS\PingCS\obj\x86\Debug\PingCS.Properties.Resources.resources
+I:\PingCS\PingCS\obj\x86\Debug\PingCS.csproj.GenerateResource.Cache
+I:\PingCS\PingCS\obj\x86\Debug\PingCS.csprojResolveAssemblyReference.cache
+G:\PingCS\PingCS\bin\Debug\PingCS.exe
+G:\PingCS\PingCS\bin\Debug\PingCS.pdb
+G:\PingCS\PingCS\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\PingCS\PingCS\obj\x86\Debug\PingCS.Form1.resources
+G:\PingCS\PingCS\obj\x86\Debug\PingCS.Properties.Resources.resources
+G:\PingCS\PingCS\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\PingCS\PingCS\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\PingCS\PingCS\obj\x86\Debug\PingCS.exe
+G:\PingCS\PingCS\obj\x86\Debug\PingCS.pdb
